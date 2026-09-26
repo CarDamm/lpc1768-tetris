@@ -1,0 +1,12 @@
+# Keil build outputs
+/Listings/
+/Objects/
+
+# Keil generated configuration and per-user IDE state
+/DebugConfig/
+/RTE/
+*.uvguix.*
+*.uvoptx
+
+# Keil event recorder output
+*.scvd
